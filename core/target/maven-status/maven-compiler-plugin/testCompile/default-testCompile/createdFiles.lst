@@ -1,0 +1,5 @@
+com\mindtree\git\core\filters\LoggingFilterTest.class
+com\mindtree\git\core\servlets\SimpleServletTest.class
+com\mindtree\git\core\models\HelloWorldModelTest.class
+com\mindtree\git\core\listeners\SimpleResourceListenerTest.class
+com\mindtree\git\core\schedulers\SimpleScheduledTaskTest.class
